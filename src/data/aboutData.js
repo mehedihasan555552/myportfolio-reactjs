@@ -1,0 +1,7 @@
+export const aboutData = {
+    title: "Who I am",
+    description1: "My name is MEHEDI HASAN. I'm a Full-Stack python django developer based in Dhaka, Bangladesh.",
+    description2: "I'm Mehedi Hasan,I am a software engineer working on web applications and web infrastructure. I have been developing professionally for 3 years but tinkering since a kid. I started in tech with internships, freelance services and part time positons during college. I'm Python Django Full-Stack Web Developer 💻 with a strong educational background in Software Engineering. I am doing freelance work 🚀 in Fiverr and Frelancer , but I do work remotely for international clients.",
+    description3: "I started creating web app using Django,Reactjs, HTML and CSS back in 2018. I'm a Python Django Expert and extremely passionate about coding. I love to learn new things every day and keep up with the new technologies. In many ways, websites are my first love. A day in my life may consist of: prepping web art, fixing some front-end bugs, adding an API endpoint, dockerizing an application, database design, configuring a unit or ui test library, setting up a build or deployment plan, provisioning a test tier machine or feature work when I am lucky.",
+
+}
